@@ -40,12 +40,12 @@ Welcome to my repository! Here you will find 13 small but cool Python projects b
    Displays the current weather for any location using the OpenWeather API.
    
 13. **User Details**  
-   Collects and displays user details such as name, age, etc.
+   Collects and displays user details such as name, age, phone number, and email address.
 
 ## How to Run the Projects:
 1. Clone the repository using the command:
    ```bash
-   git clone https://github.com/yourusername/13-tkinter-projects.git
+   git clone https://github.com/Sabirhussainbalal/13-tkinter-projects.git
    ```
 
 2. Navigate to the project folder:
@@ -72,5 +72,6 @@ pip install -r requirements.txt
 Feel free to fork this repository, make improvements, and create pull requests. I'd love to see how you expand on these projects!
 
 ## Contact:
-- Created by **Sabir Hussain Balal**  
+- Created by **Sabir**  
+- GitHub: [Sabirhussainbalal](https://github.com/Sabirhussainbalal)  
 - Made with ❤️
