@@ -21,8 +21,8 @@ Welcome to my repository! Here you will find 13 small but cool Python projects b
 6. **Digital Clock**  
    A simple digital clock that shows the current time.
    
-7. **Handwriting Recognition**  
-   Recognizes and converts handwritten text from an image into digital text.
+7. **Handwriting**  
+   Converts input text into a handwritten style and generates an image of the handwritten text.
    
 8. **Internet Speed Test**  
    Tests the speed of your internet connection.
@@ -40,7 +40,7 @@ Welcome to my repository! Here you will find 13 small but cool Python projects b
    Displays the current weather for any location using the OpenWeather API.
    
 13. **User Details**  
-   Collects and displays user details such as name, age, phone number, and email address.
+    Allows you to validate and retrieve user details like carrier, location, and time zone from a phone number.
 
 ## How to Run the Projects:
 1. Clone the repository using the command:
