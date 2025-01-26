@@ -1,1 +1,12 @@
-
+phonenumbers
+Pillow
+speedtest-cli
+pyqrcode
+tkinter
+requests
+googletrans==4.0.0-rc1
+opencv-python
+pyttsx3
+psutil
+pyautogui
+openweathermap-api
