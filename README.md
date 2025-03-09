@@ -48,12 +48,9 @@ Welcome to my repository! Here you will find 13 small but cool Python projects b
    git clone https://github.com/Sabirhussainbalal/13-tkinter-projects.git
    ```
 
-2. Navigate to the project folder:
-   ```bash
-   cd 13-tkinter-projects
-   ```
 
-3. Open the Python file for the project you want to run. For example:
+
+2. Open the Python file for the project you want to run. For example:
    ```bash
    python 1_email_validation/app.py
    ```
